@@ -1,0 +1,7 @@
+struct PokemonController {
+
+}
+
+fn foo() {
+
+}
