@@ -1,5 +1,8 @@
 # felix angell - truelayer coding challenge
 Hi, this is my takehome test for TrueLayer. I attempted to try this in Rust to see how it would go!
+I'm still new to Rust so apologies if you see any non-idiomatic Rust stuff. Regardless of the outcome
+I'd love to hear any feedback/code reviews on my approach :)
+
 This is dockerized so you can spin it up locally as so:
 
 ```shell
