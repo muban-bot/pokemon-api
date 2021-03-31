@@ -30,28 +30,3 @@ but for this case I chose to partially implement an api for what was necessary.
 
 Lastly, due to the apis being rate limited there is definitely room for caching in place with an LRU cache or something
 to store prior pokemon searches as the data is pretty much static.
-
-## notes
-```
-// the input/endpoint thing
-http://localhost:5000/pokemon/charizard
-
-// output response body
-{
-	"name": "charizard",
-	"description": "this is the description of the charizard pokemon but shakespeare"
-}
-```
-
-### todo stuff:
-
-1. automated tests
-2. structure project as if its a production thing
-3. apis: pokeapi.co - funtranslations.com/api/shakespeare
-
-readme:
-
-1. how to run the thing
-2. what im not happy with if i had more time
-3. add a dockerfile
-4. git history
