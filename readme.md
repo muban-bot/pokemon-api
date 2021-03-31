@@ -1,12 +1,12 @@
-# felix angell - truelayer coding challenge
-Hi, this is my takehome test for TrueLayer. I attempted to try this in Rust to see how it would go!
-I'm still new to Rust so apologies if you see any non-idiomatic Rust stuff.
+# felix angell
 
 ## building
 ```bash
 $ cargo build
 $ cargo run
 ```
+
+This should run on port 5000 so you can hit requests to localhost:5000 via. paw or some api client.
 
 ## notes
 I chose to write this in Rust so had to do a bit of learning of how to
