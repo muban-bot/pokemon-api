@@ -8,9 +8,9 @@ $ cargo build
 $ cargo run
 ```
 
-## what would i do differently?
+## notes
 I chose to write this in Rust so had to do a bit of learning of how to
-get something working & how to write tests. I think the main issues I ran into were
+get something working & how to write tests. The main issues I ran into were
 related to trying to approach building Rust API's with the mindset of writing something in Java or Kotlin.
 
 The general approach was to have an acceptance test to meet what the spec is asking for and then testing
